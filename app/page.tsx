@@ -8,7 +8,7 @@ export default function Home() {
    </h4>
    <ul>
       5 most favourite:
-      <li>a. Dig through logs to troubleshoot a customer's broken project: Reviewing the logs in order to troubleshoot a customer's malfunctioning project not only provides an opportunity for me to acquire new insights but also serves to minimize the customer's burden in resolving the issue.</li>
+      <li>a. Dig through logs to troubleshoot a customer&apos;s broken project: Reviewing the logs in order to troubleshoot a customer&apos;s malfunctioning project not only provides an opportunity for me to acquire new insights but also serves to minimize the customer&apos;s burden in resolving the issue.</li>
       <li>b. Write and maintain support articles and docs pages: It is always valuable to create knowledge base articles to assist both internal and external stakeholders in streamlining processes and resolving issues effectively.</li>
       <li>c. Manage a support team: I am actively involved in managing a global support team, fostering collaboration among team members, assisting in problem identification, and guiding the team towards solutions. I maintain close monitoring of issues and ensure timely and accurate reporting through appropriate channels.</li>
       <li>d. Work with the product team to develop a new feature based on feedback from customers: I actibvely collaborate with the product team to devise a new feature in response to customer feedback. It would be beneficial to establish an internal product feedback ticket to ensure the team can cross-validate and coordinate the scheduling of the future release effectively.
@@ -25,7 +25,7 @@ export default function Home() {
       <li>c. Analyze hundreds of support tickets to spot trends the product team can use: I am delighted to assist in analyzing numerous support tickets to identify patterns and insights for the product team, which is a crucial aspect of enhancing the product development life cycle.
       </li>
       <li>d. Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:  I believe handling issues and inquiries on a case-by-case basis to prevent overwhelming ourselves and duplicating efforts. By understanding customer concerns and showing empathy, we can improve the overall customer experience.</li>
-      <li>e. Run ticket review sessions to make sure tone is consistent: Understanding the tone and situation a customer is experiencing can be challenging, but it is crucial to prioritize listening to them attentively and comprehending where their frustrations lie. It's essential to approach the issue from the perspective of the customer's feelings and the challenges they are facing, rather than attributing it solely to a technical problem or personal interaction.</li>
+      <li>e. Run ticket review sessions to make sure tone is consistent: Understanding the tone and situation a customer is experiencing can be challenging, but it is crucial to prioritize listening to them attentively and comprehending where their frustrations lie. It&apos;s essential to approach the issue from the perspective of the customer&apos;s feelings and the challenges they are facing, rather than attributing it solely to a technical problem or personal interaction.</li>
    </ul>
    <h4>2. What do you want to learn or do more of at work?</h4>
    <p>I am enthusiastic about deepening my understanding and expertise in the technology field, particularly in various cloud-based products and tools available in the market. I am eager to delve further into the fundamentals and operational processes.</p>
@@ -43,12 +43,12 @@ export default function Home() {
    <h4>4. When would you choose to use Edge Functions, Serverless Functions, or Edge
       Middleware with Vercel?
    </h4>
-   <p>Edge Functions are executed at the edge of Vercel's network, enabling you to run code in proximity to your users. This leads to improved response times.</p>
+   <p>Edge Functions are executed at the edge of Vercel&apos;s network, enabling you to run code in proximity to your users. This leads to improved response times.</p>
    <p>Serverless Functions are designed to run in response to HTTP requests, enabling you to create dynamic backend logic without the need to handle server infrastructure.</p>
    <p>The Edge middleware operates before the backend logic, whereas the Edge function is designed to act as the backend logic.</p>
    <p>Edge Functions, Serverless Functions, and Edge Middleware are distinct tools offered by Vercel to serve various purposes that depend on the specific requirements of your application and the level of control and performance optimization you need at the edge.</p>
    <h4>5. Imagine a customer writes in requesting help with a build issue on a framework or
-      technology that you've not seen before. How would you begin troubleshooting this and
+      technology that you&apos;ve not seen before. How would you begin troubleshooting this and
       what questions would you ask the customer to understand the situation better?
    </h4>
    <p>First, I will gather all the necessary information from the customer to fully understand the source of the issue</p>
@@ -79,10 +79,10 @@ export default function Home() {
    <ol>
       <p>There are several strategies you can employ to control how search engines index your site.
       </p>
-      <li>Robots.txt File: By creating and uploading a "robots.txt" file to your site's root directory, you can specify which pages or sections should be excluded from search engine indexing.</li>
-      <li>Meta Tags: Including specific meta tags in your Next.js site's HTML can help direct search engines to avoid indexing certain pages.</li>
+      <li>Robots.txt File: By creating and uploading a "robots.txt" file to your site&apos;s root directory, you can specify which pages or sections should be excluded from search engine indexing.</li>
+      <li>Meta Tags: Including specific meta tags in your Next.js site&apos;s HTML can help direct search engines to avoid indexing certain pages.</li>
       <li>Password Protection: Implementing password protection for your site or specific pages adds an extra layer of security to ensure only authorized users can access the content.</li>
-      <li>Server-side Rendering (SSR) Control: Utilizing Next.js's server-side rendering capabilities allows for conditionally rendering meta tags or implementing server-side logic to control indexing based on your preferences.</li>
+      <li>Server-side Rendering (SSR) Control: Utilizing Next.js&apos;s server-side rendering capabilities allows for conditionally rendering meta tags or implementing server-side logic to control indexing based on your preferences.</li>
       <li>Disallow Directories: By disallowing specific directories in the robots.txt file, you can restrict search engine crawlers from accessing those parts of your site.
       </li>
    </ol>
