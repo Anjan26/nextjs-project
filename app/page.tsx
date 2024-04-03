@@ -7,7 +7,7 @@ export default function Home() {
       brief explanation for each.
    </h4>
    <ul>
-      5 most favourite:
+      5 most favourite tasks:
       <li>a. Dig through logs to troubleshoot a customer&apos;s broken project: Reviewing the logs in order to troubleshoot a customer&apos;s malfunctioning project not only provides an opportunity for me to acquire new insights but also serves to minimize the customer&apos;s burden in resolving the issue.</li>
       <li>b. Write and maintain support articles and docs pages: It is always valuable to create knowledge base articles to assist both internal and external stakeholders in streamlining processes and resolving issues effectively.</li>
       <li>c. Manage a support team: I am actively involved in managing a global support team, fostering collaboration among team members, assisting in problem identification, and guiding the team towards solutions. I maintain close monitoring of issues and ensure timely and accurate reporting through appropriate channels.</li>
@@ -17,7 +17,7 @@ export default function Home() {
       </li>
    </ul>
    <ul>
-      5 least favourite:
+      5 least favourite tasks:
       <li>a. Help resolve billing issues for customers: We need to ensure that any billing issues are directed through the appropriate channels, such as the accounts team or sales team, to ensure they are resolved effectively.</li>
       <li>
          b. Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites: I would be delighted to participate in a discussion regarding our platform, service, or products. However, we have noticed an influx of low-quality content on the internet that is not worth our time.
